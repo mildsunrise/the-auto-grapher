@@ -1,0 +1,5 @@
+{ "name": "the-auto-grapher"
+, "version": "0.0.1"
+, "private": true
+, "dependencies": { "coffee-script": "1" }
+}
